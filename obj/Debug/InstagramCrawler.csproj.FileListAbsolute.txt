@@ -1,0 +1,15 @@
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\InstagramCrawler.exe.config
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\InstagramCrawler.exe
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\InstagramCrawler.pdb
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\emrea\source\repos\InstagramCrawler\obj\Debug\InstagramCrawler.csprojAssemblyReference.cache
+C:\Users\emrea\source\repos\InstagramCrawler\obj\Debug\InstagramCrawler.csproj.CoreCompileInputs.cache
+C:\Users\emrea\source\repos\InstagramCrawler\obj\Debug\InstagramCrawler.csproj.CopyComplete
+C:\Users\emrea\source\repos\InstagramCrawler\obj\Debug\InstagramCrawler.exe
+C:\Users\emrea\source\repos\InstagramCrawler\obj\Debug\InstagramCrawler.pdb
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\WebDriver.dll
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\WebDriver.xml
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emrea\source\repos\InstagramCrawler\bin\Debug\Newtonsoft.Json.xml
